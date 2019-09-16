@@ -6,7 +6,7 @@ import junit.framework.TestSuite;
 
 public class RectangleTest extends TestCase {
 
-    public  Test(String testName)
+    public RectangleTest(String testName)
     {
         super(testName);
     }
